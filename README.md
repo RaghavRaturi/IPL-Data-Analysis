@@ -38,8 +38,9 @@ Performance Metrics
 - Team-wise points table
 - Wins, losses, no results, and total points
 
-# Dashboard Preview
-https://github.com/RaghavRaturi/IPL-Data-Analysis/blob/main/Dashboard%20Screenshot.png
+## Dashboard Preview
+
+![IPL Dashboard](https://raw.githubusercontent.com/RaghavRaturi/IPL-Data-Analysis/main/Dashboard%20Screenshot.png)
 
 🛠️ Tools & Technologies
 - Power BI
